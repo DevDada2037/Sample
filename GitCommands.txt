@@ -1,0 +1,24 @@
+Git Commands ======>
+
+====================>
+Creating a local repository 
+
+Git init
+
+=====================>
+Clone remote repository 
+
+Git clone  <GIT URL>
+
+=====================>
+Creating new Branch 
+
+Git branch <BRANCHNAME>
+
+=====================>
+change directory from one branch to another branch
+
+Git checkout <BRANCHNAME>
+
+======================>
+
